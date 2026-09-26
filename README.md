@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Parikchit Sen 👋
 
-<!--
-**ParikchitSen/ParikchitSen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Kathmandu University, building backend systems, 
+reinforcement-learning optimization, and local AI/RAG pipelines.
 
-Here are some ideas to get you started:
+- 🎓 **AMSC Fellow** — Applied Mathematics & Scientific Computing Summer School, 
+  Kathmandu University × Interdisciplinary Center for Scientific Computing (IWR), 
+  Heidelberg University
+  
+- 🖥️ Currently exploring: OpenGL/graphics pipelines, RL-based traffic control, 
+  local RAG systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Find me**
+- 🌐 [parikchitsen.com.np](https://parikchitsen.com.np)
+- 💼 [LinkedIn](https://www.linkedin.com/in/parikchitsen/)
